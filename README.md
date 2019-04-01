@@ -3,3 +3,4 @@ An open-world head-to-head tank shooter game with terrain, simple AI, and advanc
 
 Lecture List
 1. BT01 - Setting Up a Github Repo
+2. BT01 - Setting Up a Github Repo Sourcetree Commit
